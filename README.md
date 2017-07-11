@@ -45,7 +45,7 @@ npm install --save react-redux-firebase
 
 The above install command will install the `@latest` tag. You may also use the following tags when installing to get different versions:
 
-<!-- `@next` - Next upcoming release. currently points to active progress with `v1.5.0-*` pre-releases -->
+`@next` - Next upcoming release. currently points to active progress with `v1.5.0-*` pre-releases
 `@canary` - Most possible up to date code. Currently points to active progress with `v2.0.0-*` pre-releases. *Warning:* Syntax is different than current stable version.
 
 Other versions docs are available using the dropdown on the above docs link. For quick access:
